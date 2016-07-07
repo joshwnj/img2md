@@ -1,0 +1,20 @@
+{
+  "name": "img2md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "imgclip": "./bin/imgclip.js"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joshwnj",
+  "license": "MIT",
+  "dependencies": {
+    "electron-clipboard-watcher": "^1.0.1",
+    "node-notifier": "^4.6.0"
+  }
+}
