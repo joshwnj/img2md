@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "imgclip": "./bin/imgclip.js"
+    "img2md": "./bin/img2md.js"
   },
   "scripts": {
     "start": "electron .",
