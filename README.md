@@ -5,7 +5,7 @@ Detect images in the clipboard and paste them in your markdown file.
 ## Install
 
 ```sh
-npm i -g electron
+npm i -g electron-prebuilt
 npm i -g img2md
 ```
 
